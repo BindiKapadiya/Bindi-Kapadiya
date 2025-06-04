@@ -6,38 +6,6 @@ Welcome to my portfolio! Here are some of my published Android apps on Google Pl
 
 ## 📱 Featured Apps on Google Play
 
-### 🎵 DJ Music Mixer – DJ Remix  
-A powerful DJ mixing tool with real-time audio effects.  
-[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://apkpure.net/dj-music-mixer-dj-remix/com.djmix.djmusicmixer.remix.effects)
-
----
-
-## ![Get it](https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w23-h23-rw) Gallery - Photo Gallery, Album [🔗](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android)
-- Built a secure, user-friendly photo/video gallery with private vault (PIN/pattern lock).
-- Added features like slideshow, media editing, and recovery.
-- Implemented similar photo detection and location-based organization.
-- Integrated timeline view, themes, multi-language support (30+), and in-app purchases.
-
----
-
-## ![Get it](https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w23-h23-rw) Gallery - Photo Gallery, Album [🔗](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android)
-- Built a secure, user-friendly photo/video gallery with private vault (PIN/pattern lock).
-- Added features like slideshow, media editing, and recovery.
-- Implemented similar photo detection and location-based organization.
-- Integrated timeline view, themes, multi-language support (30+), and in-app purchases.
-
----
-
-
-## ![Get it](https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w23-h23-rw) Gallery - Photo Gallery, Album [🔗](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android)
-- Built a secure, user-friendly photo/video gallery with private vault (PIN/pattern lock).
-- Added features like slideshow, media editing, and recovery.
-- Implemented similar photo detection and location-based organization.
-- Integrated timeline view, themes, multi-language support (30+), and in-app purchases.
-
----
-
-
 ## ![Get it](https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w23-h23-rw) Gallery - Photo Gallery, Album [🔗](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android)
 - Built a secure, user-friendly photo/video gallery with private vault (PIN/pattern lock).
 - Added features like slideshow, media editing, and recovery.
@@ -56,9 +24,10 @@ A powerful DJ mixing tool with real-time audio effects.
 ## 📱 My Published Apps
 
 | Icon | App Name | Description |
-|--------------|----------------|----------------------------------------------------------------------------------------------------------|
-| [![Get it](https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w30-h30-rw)](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android)  | **Gallery - Photo Gallery, Album** [<img src="https://img.icons8.com/ios-glyphs/20/000000/external-link.png" width="14"/>](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android) | - Built a secure, user-friendly photo/video gallery with private vault (PIN/pattern lock).</br>- Added features like slideshow, media editing, and recovery.</br> - Implemented similar photo detection and location-based organization.</br>- Integrated timeline view, themes, multi-language support (30+), and in-app purchases. |
-| ![Get it](https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w25-h25-rw)  |**DJ Music Mixer |Heello|
+|---------|----------------|-------------------------------------------------------------------------------------------------------------------------|
+| ![Get it](https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w30-h30-rw) | **Gallery - Photo Gallery, Album** [<img src="https://drive.google.com/uc?export=view&id=1pE09wiQ-CbZB4q2KesSKSLn300QAK5oK" width="15"/>](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android) | <ul><li>Built a secure, user-friendly photo/video gallery with private vault (PIN/pattern lock).</li><li>Added features like slideshow, media editing, and recovery.</li><li>Implemented similar photo detection and location-based organization.</li><li>Integrated timeline view, themes, multi-language support (30+), and in-app purchases.</li></ul> |
+| ![Get it](https://play-lh.googleusercontent.com/--hul7oVRhWLjOCwYtfU4uzeJ4b1GoTHAm8R33v-NvjRCpiL5U6myJjPS9hRGFeIuqQ=w30-h30-rw) | **Messages : SMS & Text Message** [<img src="https://drive.google.com/uc?export=view&id=1pE09wiQ-CbZB4q2KesSKSLn300QAK5oK" width="15"/>](https://play.google.com/store/apps/details?id=com.sms.messages.textmessanger.messagingapp) | <ul><li>Developed SMS/MMS, group messaging, quick replies, and scheduled/delayed messaging with delivery confirmation.</li><li>Integrated custom tones, muting, personalization, and lock screen message display.</li><li>Implemented contact/number blocking and local + Google Drive SMS backup/restore.</li><li>Added support for colorful themes and UI customization.</ul></li> |
+
 
 
 
