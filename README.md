@@ -18,19 +18,12 @@ Create beautiful birthday videos with music and transitions. 5M+ downloads.
 
 ---
 
-<div align="center">
-  <table>
-    <tr>
-      <td style="vertical-align: middle;">
-        <img src="https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w25-h25-rw" />
-      </td>
-      <td style="vertical-align: middle; padding-left: 10px;">
-        <strong>Birthday Video Maker – Slideshow</strong>
-        <a href="https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android"> 🔗</a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center" style="display: inline-flex; align-items: center;">
+  <img src="https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w25-h25-rw" style="vertical-align: middle; margin-right: 8px;" />
+  <strong>Birthday Video Maker – Slideshow</strong>
+  <a href="https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android" style="margin-left: 8px;">🔗</a>
+</p>
+
 
 
 
