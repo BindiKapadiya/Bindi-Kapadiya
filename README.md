@@ -18,7 +18,7 @@ Create beautiful birthday videos with music and transitions. 5M+ downloads.
 
 ---
 
-<p align="center">
+<p>
   <img src="https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w25-h25-rw" 
        alt="App Icon" 
        style="vertical-align: middle; margin-right: 8px;">
