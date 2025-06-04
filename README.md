@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] – Android Developer
+# 👋 Hi, I'm Bindi Kapadiya – Android Developer
 
 Welcome to my portfolio! Here are some of my published Android apps on Google Play:
 
