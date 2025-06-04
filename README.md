@@ -8,7 +8,7 @@ Welcome to my portfolio! Here are some of my published Android apps on Google Pl
 
 ### 🎵 DJ Music Mixer – DJ Remix  
 A powerful DJ mixing tool with real-time audio effects.  
-[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.yourapp.djmusic)
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)]([https://play.google.com/store/apps/details?id=com.yourapp.djmusic](https://apkpure.net/dj-music-mixer-dj-remix/com.djmix.djmusicmixer.remix.effects))
 
 ---
 
