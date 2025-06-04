@@ -12,7 +12,7 @@ A powerful DJ mixing tool with real-time audio effects.
 
 ---
 
-### ![Get it](https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w23-h23-rw) Gallery - Photo Gallery, Album [🔗](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android)
+## ![Get it](https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w23-h23-rw) Gallery - Photo Gallery, Album [🔗](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android)
 Create beautiful birthday videos with music and transitions. 5M+ downloads.  
 
 
