@@ -4,7 +4,7 @@ Welcome to my portfolio! Here are some of my published Android apps on Google Pl
 
 ---
 
-## 🚀 Featured Apps on Google Play
+## 📱 Featured Apps on Google Play
 
 ### 🎵 DJ Music Mixer – DJ Remix  
 A powerful DJ mixing tool with real-time audio effects.  
@@ -20,9 +20,47 @@ A powerful DJ mixing tool with real-time audio effects.
 
 ---
 
+## ![Get it](https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w23-h23-rw) Gallery - Photo Gallery, Album [🔗](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android)
+- Built a secure, user-friendly photo/video gallery with private vault (PIN/pattern lock).
+- Added features like slideshow, media editing, and recovery.
+- Implemented similar photo detection and location-based organization.
+- Integrated timeline view, themes, multi-language support (30+), and in-app purchases.
+
+---
+
+
+## ![Get it](https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w23-h23-rw) Gallery - Photo Gallery, Album [🔗](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android)
+- Built a secure, user-friendly photo/video gallery with private vault (PIN/pattern lock).
+- Added features like slideshow, media editing, and recovery.
+- Implemented similar photo detection and location-based organization.
+- Integrated timeline view, themes, multi-language support (30+), and in-app purchases.
+
+---
+
+
+## ![Get it](https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w23-h23-rw) Gallery - Photo Gallery, Album [🔗](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android)
+- Built a secure, user-friendly photo/video gallery with private vault (PIN/pattern lock).
+- Added features like slideshow, media editing, and recovery.
+- Implemented similar photo detection and location-based organization.
+- Integrated timeline view, themes, multi-language support (30+), and in-app purchases.
+
+---
+
 ## <img src="https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA" width="28"> Gallery - Photo Gallery, Album [<img src="https://drive.google.com/uc?export=view&id=1pE09wiQ-CbZB4q2KesSKSLn300QAK5oK" width="18"/>](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android)
 
 - **File Manager** [<img src="https://img.icons8.com/ios-glyphs/20/000000/external-link.png" width="14"/>](https://play.google.com/store/apps/details?id=com.example.filemanager)
+
+
+---
+
+## 📱 My Published Apps
+
+| Icon | App Name | Link |
+|------|----------|----------------------------------------------------------------------------------------------------------|
+| ![Get it](https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w25-h25-rw) | **Birthday Video Maker – Slideshow** | - Built a secure, user-friendly photo/video gallery with private vault (PIN/pattern lock).</br>- Added features like slideshow, media editing, and recovery.</br> - Implemented similar photo detection and location-based organization.</br>- Integrated timeline view, themes, multi-language support (30+), and in-app purchases. |
+| ![Get it](https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w25-h25-rw) | **DJ Music Mixer – DJ Remix** | [🔗](https://play.google.com/store/apps/details?id=com.dj.music.mixer.android) |
+| ![Get it](https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w25-h25-rw) | **File Manager** | [🔗](https://play.google.com/store/apps/details?id=com.file.manager.android) |
+
 
 
 
