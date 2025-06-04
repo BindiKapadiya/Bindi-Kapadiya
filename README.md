@@ -14,7 +14,7 @@ A powerful DJ mixing tool with real-time audio effects.
 
 ### 🎥 Birthday Video Maker – Slideshow  
 Create beautiful birthday videos with music and transitions. 5M+ downloads.  
-[![Get it on Google Play](https://play.google.com/store/apps/details?id=com.yourapp.birthdayvideo)](https://play.google.com/store/apps/details?id=com.yourapp.birthdayvideo)
+[![Get it on Google Play](https://play.google.com/store/apps/details?id=com.yourapp.birthdayvideo)](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android)
 
 ---
 
