@@ -12,9 +12,9 @@ A powerful DJ mixing tool with real-time audio effects.
 
 ---
 
-### ![Get it](https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w30-h30-rw) Birthday Video Maker – Slideshow [🔗](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android)
+### ![Get it](https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w25-h25-rw) Birthday Video Maker – Slideshow [🔗](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android)
 Create beautiful birthday videos with music and transitions. 5M+ downloads.  
-[![Get it on Google Play](https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w35-h35-rw)](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android)
+[![Get it on Google Play](https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w30-h30-rw)](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android)
 
 ---
 
