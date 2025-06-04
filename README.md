@@ -56,8 +56,8 @@ A powerful DJ mixing tool with real-time audio effects.
 ## 📱 My Published Apps
 
 | Icon | App Name | Description |
-|----------------|----------------|----------------------------------------------------------------------------------------------------------|
-| [![Get it](https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w30-h30-rw)](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android)  | **Gallery - Photo Gallery, Album** [🔗](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android) | - Built a secure, user-friendly photo/video gallery with private vault (PIN/pattern lock).</br>- Added features like slideshow, media editing, and recovery.</br> - Implemented similar photo detection and location-based organization.</br>- Integrated timeline view, themes, multi-language support (30+), and in-app purchases. |
+|--------------|----------------|----------------------------------------------------------------------------------------------------------|
+| [![Get it](https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w30-h30-rw)](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android)  | **Gallery - Photo Gallery, Album** [<img src="https://img.icons8.com/ios-glyphs/20/000000/external-link.png" width="14"/>](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android) | - Built a secure, user-friendly photo/video gallery with private vault (PIN/pattern lock).</br>- Added features like slideshow, media editing, and recovery.</br> - Implemented similar photo detection and location-based organization.</br>- Integrated timeline view, themes, multi-language support (30+), and in-app purchases. |
 | ![Get it](https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w25-h25-rw)  |**DJ Music Mixer |Heello|
 
 
