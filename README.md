@@ -12,15 +12,17 @@ A powerful DJ mixing tool with real-time audio effects.
 
 ---
 
-## ![Get it](https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w23-h23-rw) Gallery - Photo Gallery, Album [<img src="https://drive.google.com/uc?export=view&id=1pE09wiQ-CbZB4q2KesSKSLn300QAK5oK" width="18"/>](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android)
-Create beautiful birthday videos with music and transitions. 5M+ downloads.  
-
-[<img src="https://drive.google.com/uc?export=view&id=1pE09wiQ-CbZB4q2KesSKSLn300QAK5oK" width="20"/>](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android)
-
+## ![Get it](https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w23-h23-rw) Gallery - Photo Gallery, Album [🔗](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android)
+- Built a secure, user-friendly photo/video gallery with private vault (PIN/pattern lock).
+- Added features like slideshow, media editing, and recovery.
+- Implemented similar photo detection and location-based organization.
+- Integrated timeline view, themes, multi-language support (30+), and in-app purchases.
 
 ---
 
-## ![Get it](<img src="https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA" width="10") Gallery - Photo Gallery, Album [<img src="https://drive.google.com/uc?export=view&id=1pE09wiQ-CbZB4q2KesSKSLn300QAK5oK" width="18"/>](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android)
+## <img src="https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA" width="28"> Gallery - Photo Gallery, Album [<img src="https://drive.google.com/uc?export=view&id=1pE09wiQ-CbZB4q2KesSKSLn300QAK5oK" width="18"/>](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android)
+
+- **File Manager** [<img src="https://img.icons8.com/ios-glyphs/20/000000/external-link.png" width="14"/>](https://play.google.com/store/apps/details?id=com.example.filemanager)
 
 
 
