@@ -57,5 +57,5 @@ Welcome to my portfolio! Here are some of my published Android apps on Google Pl
 - Performance Optimization, Clean Architecture
 
 ## 📫 Reach Me
-- 📧 Email: [bindi7878@gmail.com](bindi7878@gmail.com)
+- 📧 Email: bindi7878@gmail.com
 - 💼 LinkedIn: [https://www.linkedin.com/in/bindi-kapadiya-70982a171/](https://www.linkedin.com/in/bindi-kapadiya-70982a171/)
