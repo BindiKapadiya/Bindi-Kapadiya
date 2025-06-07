@@ -4,16 +4,6 @@ Welcome to my portfolio! Here are some of my published Android apps on Google Pl
 
 ---
 
-## 📱 Featured Apps on Google Play
-
-## ![Get it](https://play-lh.googleusercontent.com/DUv2Ka0xPglH03KuLWcxRlqJdKFKrUj1Cb0sYEG3lQHD1v8QmiUxo6uXzDoEs9ydjRQA=w23-h23-rw) Gallery - Photo Gallery, Album [🔗](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android)
-- Built a secure, user-friendly photo/video gallery with private vault (PIN/pattern lock).
-- Added features like slideshow, media editing, and recovery.
-- Implemented similar photo detection and location-based organization.
-- Integrated timeline view, themes, multi-language support (30+), and in-app purchases.
-
----
-
 ## 📱 My Published Apps
 
 | Icon | App Name | Description |
@@ -59,11 +49,6 @@ Welcome to my portfolio! Here are some of my published Android apps on Google Pl
 | <img src="https://image.winudf.com/v2/image1/Y29tLmNhbGxlcm5hbWVhZGRyZXNzLmNhbGxlcmlkLm1vYmlsZS5udW1iZXIubG9jYXRvci5tb2JpbGVudW1iZXJsb2NhdG9yX2ljb25fMTU3NzQyMTQ4M18wMzE/icon.webp?w=480&fakeurl=1&type=.webp" width="32"/> | **Caller ID Name & Address Location Tracker** [<img src="https://drive.google.com/uc?export=view&id=1pE09wiQ-CbZB4q2KesSKSLn300QAK5oK" width="15"/>](https://apkpure.net/caller-id-name-address-location-tracker/com.callernameaddress.callerid.mobile.number.locator.mobilenumberlocator) | <ul><li>Identify caller names and locations from call logs and unknown numbers.</li><li>Block spam calls, robocalls, and unknown numbers effectively.</li><li>Track phone number details including city, state, STD/ISD codes, and carrier info.</li><li>Display caller name and location on a custom call screen in real-time.</li></ul> |
 | <img src="https://drive.google.com/uc?export=view&id=10HyrWlYhMvXP3tFWAIcw8Ne2KHZCL7Ne" width="32"/> | **RTO Vehicle Information ** | <ul><li>Instantly check vehicle registration, owner details, and driving license status using number or scanner.</li><li>View and pay pending traffic challans directly through the app.</li><li>Track, verify, renew vehicle insurance with reminders for expiry.</li><li>ncludes fuel price checker, vehicle history report, and expense manager for complete vehicle management.</li></ul> |
 
-
----
-
-> You can explore more apps on my [Google Play Developer Page](https://play.google.com/store/apps/dev?id=YOUR_DEV_ID)
-
 ---
 
 ## 🛠️ Skills
@@ -72,6 +57,5 @@ Welcome to my portfolio! Here are some of my published Android apps on Google Pl
 - Performance Optimization, Clean Architecture
 
 ## 📫 Reach Me
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio Website: [yourdomain.com](https://yourdomain.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: ![Click](bindi7878@gmail.com)
+- 💼 LinkedIn: ![Click](https://www.linkedin.com/in/bindi-kapadiya-70982a171/)
